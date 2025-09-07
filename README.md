@@ -1,5 +1,7 @@
 # Campus Safety & Police Management System
 
+<img width="1920" height="1080" alt="Copy of Blue and Yellow Modern Gradient Cyber Security Presentation" src="https://github.com/user-attachments/assets/14f35f90-520b-4047-a29b-48cfd0b472f1" />
+
 A comprehensive safety management solution consisting of two integrated applications: a web-based police dashboard for administrators and a mobile app for students to report incidents and emergencies.
 
 ## 🏗️ Project Architecture
