@@ -18,8 +18,6 @@ A React Native mobile application built with Expo Router that allows students to
 
 ### UI Snippets
 
-### UI Snippets
-
 <table align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td>
