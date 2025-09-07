@@ -164,15 +164,6 @@ All components follow the shadcn/ui design system with custom theme integration.
 
 ## 🔧 Configuration
 
-### Environment Variables
-
-Create a `.env.local` file in the root directory:
-
-```env
-# Add your environment variables here
-NEXT_PUBLIC_MAP_API_KEY=your_map_api_key
-NEXT_PUBLIC_API_BASE_URL=your_api_url
-```
 
 ### Tailwind Configuration
 
@@ -267,17 +258,13 @@ The application can be deployed to any platform that supports Next.js:
 - **Bundle Size**: Optimized with Next.js automatic code splitting
 - **Loading Speed**: Fast initial page load with progressive enhancement
 
+## 📄 License
+
+This project is private and proprietary. All rights reserved.
+
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This is a private repository. For the use of competition only.
 
 ## 👥 Authors
 
@@ -293,12 +280,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- Create an issue on GitHub
-- Contact the development team
-- Check the documentation in the `/docs` folder
+- Email: afzal.ariffin04@gmail.com
+- LinkedIn: https://www.linkedin.com/in/afzal-ariffin-764bb9277/
 
 ---
-
-**Built with ❤️ for emergency response teams**
-
-*This application is designed to help police departments and emergency services manage incidents more effectively and improve response times.*
