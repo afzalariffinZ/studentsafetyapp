@@ -154,6 +154,14 @@ npm run reset-project  # Reset to blank project
 ### Overview
 A Next.js-based web dashboard designed for police and security personnel to monitor, manage, and respond to campus safety incidents. Features real-time analytics, interactive maps, and comprehensive incident management tools.
 
+### Snippets
+
+<img width="1898" height="904" alt="image" src="https://github.com/user-attachments/assets/7015ba52-e2dc-41e1-9818-20b6a49ed3fb" />
+<img width="1894" height="904" alt="image" src="https://github.com/user-attachments/assets/3f485929-c86a-40ed-b199-f6dab88f95d0" />
+<img width="1895" height="905" alt="image" src="https://github.com/user-attachments/assets/277b32c1-c24f-4763-9a45-a13863b511f6" />
+<img width="1899" height="902" alt="image" src="https://github.com/user-attachments/assets/98c16ce4-76bd-43c9-9b44-98bf9b4fe3c8" />
+
+
 ### Features
 - 📊 **Real-time Analytics** - Dashboard with incident statistics and trends
 - 🗺️ **Interactive Maps** - Leaflet-based mapping with incident markers
