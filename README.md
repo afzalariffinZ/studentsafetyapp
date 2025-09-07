@@ -18,17 +18,55 @@ A React Native mobile application built with Expo Router that allows students to
 
 ### UI Snippets
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/25ba7264-a419-4b56-a14e-678cc7b9259d" width="250" />
-  <img src="https://github.com/user-attachments/assets/8f29cc75-8249-42c2-8a23-05e2ebd699b4" width="250" />
-  <img src="https://github.com/user-attachments/assets/3fcc2291-8a07-4ddc-93f6-fcfeaa95774c" width="250" />
-</p>
+### UI Snippets
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b9f8cad6-dbe3-44fa-a2fb-d3cbd93bf3cc" width="250" />
-  <img src="https://github.com/user-attachments/assets/6f3b4803-cb8e-4ad9-a90b-9aa654574f3a" width="250" />
-  <img src="https://github.com/user-attachments/assets/d86f40b5-1391-45c1-8b49-0e67451953a3" width="250" />
-</p>
+<table align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/25ba7264-a419-4b56-a14e-678cc7b9259d"
+           alt="UI 1" width="200" border="2" style="border-radius:20px;"/>
+    </td>
+    <td width="10"></td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/8f29cc75-8249-42c2-8a23-05e2ebd699b4"
+           alt="UI 2" width="200" border="2" style="border-radius:20px;"/>
+    </td>
+    <td width="10"></td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/3fcc2291-8a07-4ddc-93f6-fcfeaa95774c"
+           alt="UI 3" width="200" border="2" style="border-radius:20px;"/>
+    </td>
+  </tr>
+</table>
+
+<table align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/b9f8cad6-dbe3-44fa-a2fb-d3cbd93bf3cc"
+           alt="UI 4" width="200" border="2" style="border-radius:20px;"/>
+    </td>
+    <td width="10"></td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/6f3b4803-cb8e-4ad9-a90b-9aa654574f3a"
+           alt="UI 5" width="200" border="2" style="border-radius:20px;"/>
+    </td>
+    <td width="10"></td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/d86f40b5-1391-45c1-8b49-0e67451953a3"
+           alt="UI 6" width="200" border="2" style="border-radius:20px;"/>
+    </td>
+  </tr>
+</table>
+
+<table align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/2a6e7532-907b-4af2-bad0-b588a43a362c"
+           alt="UI 7" width="200" border="2" style="border-radius:20px;"/>
+    </td>
+  </tr>
+</table>
+
 
 
 
