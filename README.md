@@ -50,23 +50,11 @@ A React Native mobile application built with Expo Router that allows students to
     </td>
     <td width="10"></td>
     <td>
-      <img src="https://github.com/user-attachments/assets/d86f40b5-1391-45c1-8b49-0e67451953a3"
-           alt="UI 6" width="200" border="2" style="border-radius:20px;"/>
-    </td>
-  </tr>
-</table>
-
-<table align="center" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
       <img src="https://github.com/user-attachments/assets/2a6e7532-907b-4af2-bad0-b588a43a362c"
            alt="UI 7" width="200" border="2" style="border-radius:20px;"/>
     </td>
   </tr>
 </table>
-
-
-
 
 ### Features
 - 🚨 **Emergency Reporting** - Quick access to report various types of incidents
