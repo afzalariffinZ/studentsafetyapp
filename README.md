@@ -302,8 +302,8 @@ This is a private repository. For the use of competition only.
 ## 📞 Support
 
 For technical support or questions about the system:
-- afzal.ariffin04@gmail.com
-- +6018-2176048
+- Email: afzal.ariffin04@gmail.com
+- LinkedIn: https://www.linkedin.com/in/afzal-ariffin-764bb9277/
 
 ---
 
