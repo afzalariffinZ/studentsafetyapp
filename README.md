@@ -16,6 +16,16 @@ This repository contains two complementary applications:
 ### Overview
 A React Native mobile application built with Expo Router that allows students to report safety incidents, view campus maps, and access emergency services. The app features an intuitive interface with real-time incident reporting and location tracking.
 
+### UI Snippets
+<img width="588" height="1280" alt="image" src="https://github.com/user-attachments/assets/25ba7264-a419-4b56-a14e-678cc7b9259d" />
+<img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/8f29cc75-8249-42c2-8a23-05e2ebd699b4" />
+<img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/3fcc2291-8a07-4ddc-93f6-fcfeaa95774c" />
+<img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/b9f8cad6-dbe3-44fa-a2fb-d3cbd93bf3cc" />
+<img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/6f3b4803-cb8e-4ad9-a90b-9aa654574f3a" />
+<img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/d86f40b5-1391-45c1-8b49-0e67451953a3" />
+<img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/2a6e7532-907b-4af2-bad0-b588a43a362c" />
+
+
 ### Features
 - 🚨 **Emergency Reporting** - Quick access to report various types of incidents
 - 🗺️ **Interactive Campus Map** - Location-based incident reporting with real-time mapping
