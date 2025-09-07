@@ -217,11 +217,9 @@ The two applications work together to provide a complete campus safety solution:
 ### Mobile App Deployment
 - **Development:** Use Expo Go app for testing
 - **Production:** Build native apps using EAS Build
-- **Web:** Deploy to Vercel, Netlify, or similar platforms
 
 ### Web Dashboard Deployment
-- **Recommended:** Vercel (optimized for Next.js)
-- **Alternatives:** Netlify, AWS Amplify, or any Node.js hosting service
+- **Deployment:** Vercel (optimized for Next.js)
 
 #### Quick Deploy to Vercel
 ```bash
