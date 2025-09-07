@@ -28,7 +28,6 @@ A React Native mobile application built with Expo Router that allows students to
   <img src="https://github.com/user-attachments/assets/b9f8cad6-dbe3-44fa-a2fb-d3cbd93bf3cc" width="250" />
   <img src="https://github.com/user-attachments/assets/6f3b4803-cb8e-4ad9-a90b-9aa654574f3a" width="250" />
   <img src="https://github.com/user-attachments/assets/d86f40b5-1391-45c1-8b49-0e67451953a3" width="250" />
-  <img src="https://github.com/user-attachments/assets/2a6e7532-907b-4af2-bad0-b588a43a362c" width="250" />
 </p>
 
 
