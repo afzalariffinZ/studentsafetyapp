@@ -289,7 +289,7 @@ This project is private and proprietary. All rights reserved.
 
 ## 🤝 Contributing
 
-This is a private repository. For internal development only.
+This is a private repository. For the use of competition only.
 
 ## 📞 Support
 
