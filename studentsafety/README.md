@@ -249,47 +249,25 @@ The app is designed to integrate with:
 - **Anonymous reporting**: Option for anonymous incident reports
 - **Data retention policies**: Automatic cleanup of old data
 
-## 🤝 Contributing
-
-We welcome contributions to improve campus safety! Please follow these steps:
-
-1. **Fork** the repository
-2. **Create feature branch**: `git checkout -b feature/amazing-feature`
-3. **Commit changes**: `git commit -m 'Add amazing feature'`
-4. **Push to branch**: `git push origin feature/amazing-feature`
-5. **Open Pull Request** with detailed description
-
-### Contribution Guidelines
-- Follow **TypeScript** best practices
-- Write **clear commit messages**
-- Add **tests** for new features
-- Update **documentation** as needed
-- Follow **React Native** coding standards
-
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is private and proprietary. All rights reserved.
+
+## 🤝 Contributing
+
+This is a private repository. For the use of competition only.
 
 ## 👥 Authors & Acknowledgments
 
 ### Development Team
-- **Afzal Ariffin Z** - *Lead Developer* - [@afzalariffinZ](https://github.com/afzalariffinZ)
+- **Afzal Ariffin** - *Lead Developer* - [@afzalariffinZ](https://github.com/afzalariffinZ)
 
-### Special Thanks
-- **University of Malaya** - Campus safety requirements and testing
-- **React Native Community** - Open source libraries and support
-- **Expo Team** - Development platform and tools
 
 ## 📞 Support & Contact
 
 ### For Technical Issues
-- **GitHub Issues**: [Create an issue](https://github.com/afzalariffinZ/studentsafety/issues)
-- **Email**: support@campussafety.edu.my
-
-### For Emergency Support
-- **Campus Security**: +60-3-XXXX-XXXX
-- **Emergency Services**: 999
-- **University Helpdesk**: +60-3-XXXX-XXXX
+- Email: afzal.ariffin04@gmail.com
+- LinkedIn: https://www.linkedin.com/in/afzal-ariffin-764bb9277/
 
 ## 📈 Roadmap
 
@@ -333,4 +311,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Stay safe, stay connected.* 🛡️
 
-*Built with ❤️ for University of Malaya students*
