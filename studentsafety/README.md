@@ -210,6 +210,10 @@ npm run type-check  # TypeScript validation
 
 ### Building for Production
 
+#### Mockup Access (Required Expo GO installed in your device)
+<img width="473" height="318" alt="image" src="https://github.com/user-attachments/assets/f5c7f880-1f00-49d6-b71e-f059beb5264f" />
+
+
 #### Android
 ```bash
 npx expo build:android
