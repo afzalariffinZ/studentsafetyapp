@@ -302,9 +302,8 @@ This is a private repository. For the use of competition only.
 ## 📞 Support
 
 For technical support or questions about the system:
-- Web Dashboard Issues: Contact the development team
-- Mobile App Issues: Check Expo documentation and logs
-- General Questions: Refer to internal documentation
+- afzal.ariffin04@gmail.com
+- +6018-2176048
 
 ---
 
